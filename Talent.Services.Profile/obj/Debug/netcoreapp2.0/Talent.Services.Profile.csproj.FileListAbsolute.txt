@@ -37,3 +37,17 @@ C:\Talent-Competition\Talent\Talent.Services.Profile\obj\Debug\netcoreapp2.0\Tal
 C:\Talent-Competition\Talent\Talent.Services.Profile\obj\Debug\netcoreapp2.0\Talent.Services.Profile.AssemblyInfo.cs
 C:\Talent-Competition\Talent\Talent.Services.Profile\obj\Debug\netcoreapp2.0\Talent.Services.Profile.dll
 C:\Talent-Competition\Talent\Talent.Services.Profile\obj\Debug\netcoreapp2.0\Talent.Services.Profile.pdb
+C:\Users\Signature Edition\Source\Repos\talent-competition\Talent.Services.Profile\bin\Debug\netcoreapp2.0\Talent.Services.Profile.deps.json
+C:\Users\Signature Edition\Source\Repos\talent-competition\Talent.Services.Profile\bin\Debug\netcoreapp2.0\Talent.Services.Profile.runtimeconfig.json
+C:\Users\Signature Edition\Source\Repos\talent-competition\Talent.Services.Profile\bin\Debug\netcoreapp2.0\Talent.Services.Profile.runtimeconfig.dev.json
+C:\Users\Signature Edition\Source\Repos\talent-competition\Talent.Services.Profile\bin\Debug\netcoreapp2.0\Talent.Services.Profile.dll
+C:\Users\Signature Edition\Source\Repos\talent-competition\Talent.Services.Profile\bin\Debug\netcoreapp2.0\Talent.Services.Profile.pdb
+C:\Users\Signature Edition\Source\Repos\talent-competition\Talent.Services.Profile\bin\Debug\netcoreapp2.0\Talent.Common.dll
+C:\Users\Signature Edition\Source\Repos\talent-competition\Talent.Services.Profile\bin\Debug\netcoreapp2.0\Talent.Common.pdb
+C:\Users\Signature Edition\Source\Repos\talent-competition\Talent.Services.Profile\obj\Debug\netcoreapp2.0\Talent.Services.Profile.csprojAssemblyReference.cache
+C:\Users\Signature Edition\Source\Repos\talent-competition\Talent.Services.Profile\obj\Debug\netcoreapp2.0\Talent.Services.Profile.csproj.CoreCompileInputs.cache
+C:\Users\Signature Edition\Source\Repos\talent-competition\Talent.Services.Profile\obj\Debug\netcoreapp2.0\Talent.Services.Profile.AssemblyInfoInputs.cache
+C:\Users\Signature Edition\Source\Repos\talent-competition\Talent.Services.Profile\obj\Debug\netcoreapp2.0\Talent.Services.Profile.AssemblyInfo.cs
+C:\Users\Signature Edition\Source\Repos\talent-competition\Talent.Services.Profile\obj\Debug\netcoreapp2.0\Talent.Services.Profile.csproj.CopyComplete
+C:\Users\Signature Edition\Source\Repos\talent-competition\Talent.Services.Profile\obj\Debug\netcoreapp2.0\Talent.Services.Profile.dll
+C:\Users\Signature Edition\Source\Repos\talent-competition\Talent.Services.Profile\obj\Debug\netcoreapp2.0\Talent.Services.Profile.pdb
